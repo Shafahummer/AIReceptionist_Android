@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 12 15:21:27 IST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\ASUS\\AndroidStudioProjects\\AI Receptionist\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

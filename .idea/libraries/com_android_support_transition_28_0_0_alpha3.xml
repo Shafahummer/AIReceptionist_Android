@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.android.support:transition-28.0.0-alpha3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/f4e53c8b848df0348e80558cbd71538f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/f4e53c8b848df0348e80558cbd71538f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
